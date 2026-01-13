@@ -2,7 +2,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨🏻‍💻 About Me
 
 Frontend Developer with over 15 years of experience in developing maintainable, modular applications. Current focus on **TypeScript** with **Vue.js** and **React**, as well as **UX**, **Performance**, and **automated testing**.
 
