@@ -30,7 +30,7 @@ I work independently on implementing business requirements in close collaboratio
   <td style="border:none; padding:0 8px 0 0;"><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a></td>
   <td style="border:none; padding:0 8px 0 0;"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></td>
   <td style="border:none; padding:0 8px 0 0;"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a></td>
-  <td style="border:none; padding:0 8px 0 0;"><a href="https://sapui5.hana.ondemand.com/" target="_blank" rel="noreferrer"> <img src="https://ui5.sap.com/resources/sap/ui/documentation/sdk/images/Logo_B_SAPUI5.svg" alt="sapui5" width="40" height="40"/> </a></td>
+  <td style="border:none; padding:0 8px 0 0;"><a href="https://sapui5.hana.ondemand.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sap.svg" alt="sapui5" width="40" height="40"/> </a></td>
   <td style="border:none; padding:0 8px 0 0;"><a href="https://pixijs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pixijs/pixijs-original.svg" alt="pixijs" width="40" height="40"/> </a></td>
 </tr>
 </table>
